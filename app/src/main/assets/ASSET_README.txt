@@ -1,0 +1,1 @@
+Synthetic image fixture for future on-device visual filter testing. Not real media.
